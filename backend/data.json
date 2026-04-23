@@ -1,0 +1,90 @@
+{
+    "files_db": {
+        "4c5c486d-81a4-432e-8ab1-a980eb5ed648": {
+            "id": "4c5c486d-81a4-432e-8ab1-a980eb5ed648",
+            "filename": "file dropper documentation.pdf",
+            "filepath": "uploads\\4c5c486d-81a4-432e-8ab1-a980eb5ed648_file dropper documentation.pdf",
+            "password": "",
+            "expiry": "2026-04-08T19:42:00.089179",
+            "download_limit": 5,
+            "downloads": 0,
+            "upload_time": "2026-04-01T19:42:00.089265",
+            "file_size": 2492465
+        },
+        "c8f6d829-49cb-47b6-94de-fff851b41879": {
+            "id": "c8f6d829-49cb-47b6-94de-fff851b41879",
+            "filename": "file dropper documentation.pdf",
+            "filepath": "uploads\\c8f6d829-49cb-47b6-94de-fff851b41879_file dropper documentation.pdf",
+            "password": "",
+            "expiry": "2026-04-08T19:49:55.195166",
+            "download_limit": 5,
+            "downloads": 0,
+            "upload_time": "2026-04-01T19:49:55.195197",
+            "file_size": 2492465
+        },
+        "4fd31f1e-5555-4530-b1ba-4c23ca26eff2": {
+            "id": "4fd31f1e-5555-4530-b1ba-4c23ca26eff2",
+            "filename": "file dropper documentation.pdf",
+            "filepath": "uploads\\4fd31f1e-5555-4530-b1ba-4c23ca26eff2_file dropper documentation.pdf",
+            "password": "",
+            "expiry": "2026-04-08T21:50:12.062133",
+            "download_limit": 5,
+            "downloads": 0,
+            "upload_time": "2026-04-01T21:50:12.062222",
+            "file_size": 2492465
+        },
+        "711bf9ca-d24d-4d25-9950-34e1027c5441": {
+            "id": "711bf9ca-d24d-4d25-9950-34e1027c5441",
+            "filename": "file dropper documentation.pdf",
+            "filepath": "uploads\\711bf9ca-d24d-4d25-9950-34e1027c5441_file dropper documentation.pdf",
+            "password": "Bobb",
+            "expiry": "2026-04-08T21:53:04.882243",
+            "download_limit": 5,
+            "downloads": 0,
+            "upload_time": "2026-04-01T21:53:04.882268",
+            "file_size": 2492465
+        },
+        "7044308e-e69d-4351-b0e9-490c041dbd55": {
+            "id": "7044308e-e69d-4351-b0e9-490c041dbd55",
+            "filename": "file dropper documentation (1).pdf",
+            "filepath": "uploads\\7044308e-e69d-4351-b0e9-490c041dbd55_file dropper documentation (1).pdf",
+            "password": "",
+            "expiry": "2026-04-09T15:59:48.818568",
+            "download_limit": 5,
+            "downloads": 0,
+            "upload_time": "2026-04-02T15:59:48.819040",
+            "file_size": 2492465
+        },
+        "14c55b19-1240-4fc2-83a7-d717ff73390d": {
+            "id": "14c55b19-1240-4fc2-83a7-d717ff73390d",
+            "filename": "Amanprit Kaur_Deutsche Bank_13.pdf",
+            "filepath": "uploads\\14c55b19-1240-4fc2-83a7-d717ff73390d_Amanprit Kaur_Deutsche Bank_13.pdf",
+            "password": "",
+            "expiry": "2026-04-26T11:49:01.097561",
+            "download_limit": 5,
+            "downloads": 0,
+            "upload_time": "2026-04-19T11:49:01.097798",
+            "file_size": 96514
+        },
+        "3e1d6796-2ead-44c2-b8c1-71479009ffb8": {
+            "id": "3e1d6796-2ead-44c2-b8c1-71479009ffb8",
+            "filename": "File Dropper presantation.pdf",
+            "filepath": "uploads\\3e1d6796-2ead-44c2-b8c1-71479009ffb8_File Dropper presantation.pdf",
+            "password": "bob",
+            "expiry": "2026-04-21T10:48:00.492351",
+            "download_limit": 5,
+            "downloads": 0,
+            "upload_time": "2026-04-20T10:48:00.492716",
+            "file_size": 996961
+        }
+    },
+    "share_db": {
+        "28751b0f": "4c5c486d-81a4-432e-8ab1-a980eb5ed648",
+        "ab0b7944": "c8f6d829-49cb-47b6-94de-fff851b41879",
+        "7ee2cddb": "4fd31f1e-5555-4530-b1ba-4c23ca26eff2",
+        "13193bd3": "711bf9ca-d24d-4d25-9950-34e1027c5441",
+        "2ad8d81a": "7044308e-e69d-4351-b0e9-490c041dbd55",
+        "45849f3b": "14c55b19-1240-4fc2-83a7-d717ff73390d",
+        "d2a63445": "3e1d6796-2ead-44c2-b8c1-71479009ffb8"
+    }
+}
